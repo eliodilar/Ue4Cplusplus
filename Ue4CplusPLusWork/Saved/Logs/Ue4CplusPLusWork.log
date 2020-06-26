@@ -615,3 +615,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.26-09.20.21:479][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
 [2020.06.26-09.20.21:480][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.06.26-09.20.21:523][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.26-09.33.47:431][182]LogRenderer: Reallocating scene render targets to support 1284x432 Format 10 NumSamples 1 (Frame:773).
+[2020.06.26-09.33.47:478][183]LogRenderer: Reallocating scene render targets to support 1284x488 Format 10 NumSamples 1 (Frame:775).
+[2020.06.26-09.33.47:585][184]LogRenderer: Reallocating scene render targets to support 1284x580 Format 10 NumSamples 1 (Frame:777).
+[2020.06.26-09.33.47:635][185]LogRenderer: Reallocating scene render targets to support 1284x624 Format 10 NumSamples 1 (Frame:779).
+[2020.06.26-09.33.47:683][186]LogRenderer: Reallocating scene render targets to support 1284x644 Format 10 NumSamples 1 (Frame:781).
+[2020.06.26-09.33.47:783][188]LogRenderer: Reallocating scene render targets to support 1284x648 Format 10 NumSamples 1 (Frame:785).
+[2020.06.26-09.33.47:832][189]LogRenderer: Reallocating scene render targets to support 1284x656 Format 10 NumSamples 1 (Frame:787).
+[2020.06.26-09.33.47:873][190]LogRenderer: Reallocating scene render targets to support 1284x668 Format 10 NumSamples 1 (Frame:789).
+[2020.06.26-09.37.37:538][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2020.06.26-09.37.47:728][337]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.26-09.37.47:779][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.06.26-09.37.48:002][337]LogSavePackage: Moving 'N:/Ue4Cplusplus/Ue4CplusPLusWork/Saved/ThirdPersonExampleMap6E452148468CAE4FC66824BADD831FB4.tmp' to 'N:/Ue4Cplusplus/Ue4CplusPLusWork/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.06.26-09.37.48:186][337]LogSavePackage: Moving 'N:/Ue4Cplusplus/Ue4CplusPLusWork/Saved/ThirdPersonExampleMap_BuiltData332407C442056042DED79D83E6F8FF11.tmp' to 'N:/Ue4Cplusplus/Ue4CplusPLusWork/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.06.26-09.37.48:200][337]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.26-09.37.48:200][337]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.06.26-09.37.48:200][337]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
